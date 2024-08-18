@@ -1,1 +1,1 @@
-[DDEMO](https://panasiuknazar.github.io/InvestiCraft-investing-website-MP-EN-IV/)
+[DEMO](https://panasiuknazar.github.io/InvestiCraft-investing-website-MP-EN-IV/)
